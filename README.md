@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Foxyy-SM/Foxyy-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello 01110111 01101111 01110010 01101100 01100100 👋 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> --> !
+<p align="middle"> <strong>Hola Señor!!!</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" height="20">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjr15&label=Profile%20views&color=0e75b6&style=flat" alt="iamjr15" /> </p>
 

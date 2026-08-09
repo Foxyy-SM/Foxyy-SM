@@ -1,75 +1,164 @@
+<h1 align="center">Hi there, I'm Smarak 👋</h1>
 
+<h3 align="center">Software Development Engineer @ IQVIA | Java Backend • Data Analytics • Occasional Salesforce Wizard</h3>
 
-<!--
-**Foxyy-SM/Foxyy-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+backend+services+with+Java+%26+Spring+Boot;Migrating+Spotfire+reports+to+Snowflake+%E2%9A%A1;Optimizing+SQL+queries+one+index+at+a+time;Currently+exploring+RAG+%2B+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:smarakmishra18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<p align="middle"> <strong>Hola Señor!!!</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" height="20">
+### 👨‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjr15&label=Profile%20views&color=0e75b6&style=flat" alt="iamjr15" /> </p>
+```yaml
+name: Smarak Mishra
+role: Software Development Engineer (SDE-1)
+company: IQVIA India, Bengaluru
+education: B.E in Electronics & Communication Engineering — Dayananda Sagar College of Engineering
+currently_working_on:
+  - Migrating Spotfire reports → Snowflake (25% faster query execution ⚡)
+  - Java feature development on the Clinical Analytics team
+  - Leveling up into AI/ML-adjacent backend engineering
+fun_fact: "Went from Salesforce Admin trainee to Java backend engineer to data analytics — still deciding what I want to be when I grow up 😄"
+```
 
-![](https://github.com/iamjr15/iamjr15/blob/main/header.png)
+---
 
-<br />
+### 🛠️ Tech Stack
 
-Hi, I'm [Smarak Mishra](https://iamjr15.netlify.app/), a web developer, data analyst and a Salesforce Developer with a keen interest and admiration for new innovations. I take great care in the experience, architecture, and code quality of the things I build, along with a deep obsession with elegant interfaces.
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
+**Frameworks & Libraries**
 
-- 🔭 I’m currently working on <strong>a ton of side projects and polishing my existing skills </strong>
-- 🌱 I’m currently learning <strong> Salesforce, Data Analytics & much more. </strong>
-- 💬 Talk to me about <strong>football, tech, movies and music </strong>
-- 📫 How to reach me: <strong>if you have an idea or think we can collaborate on something, drop me a text through any of the mediums below! </strong>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-## 🤝Let's connect !
-<a href="#">
-  <img align="left" alt="Smarak's Instagram" width="33px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png" />
-</a>
-<a href="https://twitter.com/SmarakMishra10">
-  <img align="left" alt="Smarak Mishra | Twitter" width="33px" src="https://img.icons8.com/fluent/240/000000/twitter.png" />
-</a>
-<a href="#https://www.linkedin.com/in/smarakmishra1827/">
-  <img align="left" alt="Smarak's LinkedIN" width="33px" src="https://img.icons8.com/fluent/240/000000/linkedin.png" />
-</a>
-<a href="mailto:smarakmishra18@gmail.com">
-  <img align="left" alt="Smarak's e-mail" width="33px" src="https://img.icons8.com/fluent/48/000000/send-mass-email.png" />
-</a>
-<a href="#">
-  <img align="left" alt="Smarak's Website" width="33px" src="https://img.icons8.com/fluent/240/000000/internet.png" />
-</a>
-<br><br>
+**Data & Databases**
 
-## 🧰 Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Spotfire](https://img.shields.io/badge/TIBCO_Spotfire-3D3D3D?style=flat-square&logo=tibco&logoColor=white)
 
-<!--stats ref - https://github.com/anuraghazra/github-readme-stats -->
-## 📊 GitHub Stats
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamjr15&theme=algolia)](https://git.io/streak-stats) -->
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamjr15&theme=algolia" alt="iamjr15" /></p>
-<details> 
-  <summary>💻 Profile Stats</summary>
-  <br/>
-    <a href="#"><img alt="Smarak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamjr15&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px"/>
-  <a href="#"><img alt="Smarak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamjr15&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px"/></a>
-  <br/>
- 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+**Cloud, DevOps & Tools**
 
-<details> 
-  <summary>⚡ My Contribution Graph</summary>
-  <br/>
-  <a href="#"><img alt="Smarak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamjr15&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <!--https://github.com/ashutosh00710/github-readme-activity-graph-->
-</details>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+---
+
+### 💼 What I've Been Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 CA-webapp**
+Java web app that ingests client clinical data and audits it for leadership decision-making — also estimates drug efficiency from clinical parameters.
+`Spring Boot` `Maven` `Hibernate` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+**✍️ BlogEz**
+Full-stack blog platform with dark mode, category-based featured posts, and Google social login.
+`Next.js` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Student Result Tracking CRM**
+One-stop result management system for a college, with real-time reports & dashboards for students and staff.
+`Salesforce` `Apex` `Visualforce`
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Zomato EDA**
+Exploratory data analysis uncovering patterns across restaurant data using pivot tables, heatmaps, and box plots.
+`Python` `Pandas` `Jupyter`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 Impact, By the Numbers
+
+| Metric | Result |
+|---|---|
+| 🚀 Spotfire query execution time | **↓ 25%** after migration to Snowflake |
+| ⚡ Spotfire report load time | **↓ 30%** post-optimization |
+| 🐛 QA defect resolution turnaround | **↓ 20%** improvement |
+| 🔍 Data accuracy issues resolved | **10+** across environments |
+| 📑 Spotfire reports migrated | **10+** (and counting) |
+| 🎯 Internship selection | **1 of 18**, chosen from ~200 applicants |
+
+---
+
+### 🏆 Achievements & Activities
+
+- 🌐 **Google Developer Student Clubs** — Member, went deep on GCP, Docker, Golang, microservices, load balancing, and concurrency (mutex locks, threads, goroutines)
+- ☁️ **30 Days of Google Cloud Challenge** — completed both the Cloud Engineering and Data Science/ML tracks
+- 🧠 **AWS Machine Learning Foundations** — completed via AWS x Udacity
+- 🏅 **YEAH National Hackathon** (Devfolio) — participant
+- ⭐ **HackerRank** — 5-star rated in C++, Java, and Python
+
+---
+
+### 🎯 Currently Exploring
+
+```
+[■■■■■■■■□□] LLMs & Agentic AI (LangChain, RAG, MCP servers)
+[■■■■■■■□□□] DevOps & Infra-as-Code (Terraform, CI/CD pipelines)
+[■■■■■■■■■□] Data Analytics & Dashboarding (Snowflake, SQL, Power BI)
+[■■■■■■■■□□] Backend Systems Design (Spring Boot, microservices)
+```
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
+  <a href="mailto:smarakmishra18@gmail.com">Email</a> •
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=2563EB" alt="Profile views"/>
+</p>
